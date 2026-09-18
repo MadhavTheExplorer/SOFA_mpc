@@ -1,0 +1,15 @@
+title: SOFA Soft-Robot Model Predictive Control
+summary: Experiments in cable-actuated soft-robot simulation, Koopman system identification, and model predictive control using SOFA.
+status: archived
+kind: research
+fields:
+  - soft-robotics
+  - model-predictive-control
+  - system-identification
+  - simulation
+family: robotics-and-autonomy
+related_repos:
+  - MadhavTheExplorer/MPC_simple_test
+featured: true
+started: 2023-01
+links: {}
